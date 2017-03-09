@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">MyFrenchApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="number_one">one</string>
+    <string name="number_two">two</string>
+    <string name="number_three">three</string>
+    <string name="number_four">four</string>
+    <string name="number_five">five</string>
+    <string name="number_six">six</string>
+    <string name="number_seven">seven</string>
+    <string name="number_eight">eight</string>
+    <string name="number_nine">nine</string>
+    <string name="number_ten">ten</string>
+
+    <string name="salutation_one">Hello / Good day / Good morning</string>
+    <string name="salutation_two">Good evening</string>
+    <string name="salutation_three">Good night</string>
+    <string name="salutation_four">Hi / Bye</string>
+    <string name="salutation_five">Goodbye</string>
+    <string name="salutation_six">Please</string>
+    <string name="salutation_seven">Thank you</string>
+    <string name="salutation_eight">You\'re welcome</string>
+    <string name="salutation_nine">See you in a little while</string>
+    <string name="salutation_ten">See you later</string>
+    <string name="salutation_eleven">I\'m sorry</string>
+
+    <string name="color_silver">Silver</string>
+    <string name="color_gold">Gold</string>
+    <string name="color_pink">Pink</string>
+    <string name="color_black">Black</string>
+    <string name="color_brown">Brown</string>
+    <string name="color_white">White</string>
+    <string name="color_purple">purple</string>
+    <string name="color_blue">Blue</string>
+    <string name="color_green">Green</string>
+    <string name="color_yellow">Yelloe</string>
+    <string name="color_orange">Orange</string>
+    <string name="color_red">Red</string>
+
+
+    <!-- French Translations  -->
+    <string name="french_number_one">un</string>
+    <string name="french_number_two">deux</string>
+    <string name="french_number_three">trois</string>
+    <string name="french_number_four">quatre</string>
+    <string name="french_number_five">cinq</string>
+    <string name="french_number_six">six</string>
+    <string name="french_number_seven">sept</string>
+    <string name="french_number_eight">huit</string>
+    <string name="french_number_nine">neuf</string>
+    <string name="french_number_ten">dix</string>
+
+    <string name="french_salutation_one">Bonjour</string>
+    <string name="french_salutation_two">Bonsoir</string>
+    <string name="french_salutation_three">Bonne nuit</string>
+    <string name="french_salutation_four">Salut</string>
+    <string name="french_salutation_five">Au revoir</string>
+    <string name="french_salutation_six">S\'il vous plaît</string>
+    <string name="french_salutation_seven">Merci (beaucoup)</string>
+    <string name="french_salutation_eight">Je vous en prie.</string>
+    <string name="french_salutation_nine">A tout à l\'heure</string>
+    <string name="french_salutation_ten">A plus tard</string>
+    <string name="french_salutation_eleven">Je suis désolé(e)</string>
+    <string name="color_gray">Gray</string>
+
+    <string name="french_color_red">rouge</string>
+    <string name="french_color_orange">orange</string>
+    <string name="french_color_yellow">jaune</string>
+    <string name="french_color_green">vert / verte</string>
+    <string name="french_color_blue">bleu / bleue</string>
+    <string name="french_color_purple">violet / violette</string>
+    <string name="french_color_white">blanc / blanche</string>
+    <string name="french_color_brown">brun / brune marron</string>
+    <string name="french_color_black">noir / noire</string>
+    <string name="french_color_pink">rose</string>
+    <string name="french_color_gold">doré / dorée</string>
+    <string name="french_color_silver">argenté / argentée</string>
+    <string name="french_color_gray">gris / grise</string>
+
+
+</resources>
